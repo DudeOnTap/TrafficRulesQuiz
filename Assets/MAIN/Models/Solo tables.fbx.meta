@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 1c7cc4145053b234b845e7c92d9fed12
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 8499400726721780169
+    second: ChairMetal_L004|ChairMetal_L001|Take 001|BaseLayer
+  - first:
+      74: -4517173125276935658
+    second: ChairMetal_L004|ChairMetal_L002|Take 001|BaseLayer
+  - first:
+      74: 9154117688238892150
+    second: ChairMetal_L004|ChairMetal_L003|Take 001|BaseLayer
+  - first:
+      74: 7711241338389677941
+    second: ChairMetal_L004|ChairMetal_L004|Take 001|BaseLayer
+  - first:
+      74: -7663351826859430775
+    second: ChairMetal_L004|ChairMetal_L005|Take 001|BaseLayer
+  - first:
+      74: -7442399614702419675
+    second: ChairMetal_L004|ChairMetal_L006|Take 001|BaseLayer
+  - first:
+      74: 6717165200074337979
+    second: ChairMetal_L004|ChairMetal_L007|Take 001|BaseLayer
+  - first:
+      74: 6806506238916915899
+    second: ChairMetal_L004|ChairMetal_L008|Take 001|BaseLayer
+  - first:
+      74: 5421955522005010872
+    second: ChairMetal_L004|ChairMetal_L009|Take 001|BaseLayer
+  - first:
+      74: 324411182445324875
+    second: ChairMetal_L004|ChairMetal_L010|Take 001|BaseLayer
+  - first:
+      74: 4430100942938408502
+    second: ChairMetal_L004|ChairMetal_L011|Take 001|BaseLayer
+  - first:
+      74: 4281093853482056083
+    second: ChairMetal_L004|ChairMetal_L012|Take 001|BaseLayer
+  - first:
+      74: -3812013340941397024
+    second: ChairMetal_L004|ChairMetal_L013|Take 001|BaseLayer
+  - first:
+      74: 5319788169638438379
+    second: ChairMetal_L004|ChairMetal_L014|Take 001|BaseLayer
+  - first:
+      74: 6920304382115154792
+    second: ChairMetal_L004|ChairMetal_L015|Take 001|BaseLayer
+  - first:
+      74: 8114974944436498318
+    second: ChairMetal_L004|ChairMetal_L016|Take 001|BaseLayer
+  - first:
+      74: -1816140378932925621
+    second: ChairMetal_L004|ChairMetal_L017|Take 001|BaseLayer
+  - first:
+      74: 8387711779665544643
+    second: ChairMetal_L004|ChairMetal_L018|Take 001|BaseLayer
+  - first:
+      74: -6199378675731139290
+    second: ChairMetal_L004|ChairMetal_L019|Take 001|BaseLayer
+  - first:
+      74: -1885398303859737016
+    second: ChairMetal_L004|ChairMetal_L020|Take 001|BaseLayer
+  - first:
+      74: 820094842186325805
+    second: ChairMetal_L004|ChairMetal_L021|Take 001|BaseLayer
+  - first:
+      74: 2889939603026646049
+    second: ChairMetal_L004|ChairMetal_L022|Take 001|BaseLayer
+  - first:
+      74: 1473713817205907602
+    second: ChairMetal_L004|ChairMetal_L023|Take 001|BaseLayer
+  - first:
+      74: 4635067459091085954
+    second: ChairMetal_L004|ChairMetal_L024|Take 001|BaseLayer
+  - first:
+      74: 524300389414023954
+    second: ChairMetal_L004|ChairMetal_L025|Take 001|BaseLayer
+  - first:
+      74: -8758114615828846358
+    second: ChairMetal_L004|ChairMetal_L026|Take 001|BaseLayer
+  - first:
+      74: -7331679812888715846
+    second: ChairMetal_L004|ChairMetal_L027|Take 001|BaseLayer
+  - first:
+      74: 3458310387235667017
+    second: ChairMetal_L004|ChairMetal_L028|Take 001|BaseLayer
+  - first:
+      74: -3105364586298423237
+    second: ChairMetal_L004|ChairMetal_L029|Take 001|BaseLayer
+  - first:
+      74: -7082271174591989818
+    second: ChairMetal_L004|ChairMetal_L030|Take 001|BaseLayer
+  - first:
+      74: -8053401994039051405
+    second: ChairMetal_L004|ChairMetal_L031|Take 001|BaseLayer
+  - first:
+      74: 2126381616727329979
+    second: ChairMetal_L004|ChairMetal_L032|Take 001|BaseLayer
+  - first:
+      74: -5106531144124090153
+    second: ChairMetal_L004|ChairMetal_L033|Take 001|BaseLayer
+  - first:
+      74: -3725129037455676004
+    second: ChairMetal_L004|ChairMetal_L034|Take 001|BaseLayer
+  - first:
+      74: -3226583662336007340
+    second: ChairMetal_L004|ChairMetal_L035|Take 001|BaseLayer
+  - first:
+      74: 6023416689763858902
+    second: ChairMetal_L004|ChairMetal_L|Take 001|BaseLayer
+  - first:
+      74: 8153051397073912240
+    second: ChairMetal_L004|ChairWood_L001|Take 001|BaseLayer
+  - first:
+      74: -1058562055941048330
+    second: ChairMetal_L004|ChairWood_L002|Take 001|BaseLayer
+  - first:
+      74: 3547723980341237689
+    second: ChairMetal_L004|ChairWood_L003|Take 001|BaseLayer
+  - first:
+      74: 8481678972225578553
+    second: ChairMetal_L004|ChairWood_L004|Take 001|BaseLayer
+  - first:
+      74: 537043427627958336
+    second: ChairMetal_L004|ChairWood_L005|Take 001|BaseLayer
+  - first:
+      74: 4362765152540566001
+    second: ChairMetal_L004|ChairWood_L006|Take 001|BaseLayer
+  - first:
+      74: 836556101711124768
+    second: ChairMetal_L004|ChairWood_L007|Take 001|BaseLayer
+  - first:
+      74: 8761075419801280674
+    second: ChairMetal_L004|ChairWood_L008|Take 001|BaseLayer
+  - first:
+      74: -7316662208802802758
+    second: ChairMetal_L004|ChairWood_L009|Take 001|BaseLayer
+  - first:
+      74: 6799513712309295105
+    second: ChairMetal_L004|ChairWood_L010|Take 001|BaseLayer
+  - first:
+      74: -4103726927898385989
+    second: ChairMetal_L004|ChairWood_L011|Take 001|BaseLayer
+  - first:
+      74: 3807481616946509234
+    second: ChairMetal_L004|ChairWood_L012|Take 001|BaseLayer
+  - first:
+      74: -8189999757782660513
+    second: ChairMetal_L004|ChairWood_L013|Take 001|BaseLayer
+  - first:
+      74: -5767953014522845026
+    second: ChairMetal_L004|ChairWood_L014|Take 001|BaseLayer
+  - first:
+      74: 3599865600130474188
+    second: ChairMetal_L004|ChairWood_L015|Take 001|BaseLayer
+  - first:
+      74: -2706407555725457257
+    second: ChairMetal_L004|ChairWood_L016|Take 001|BaseLayer
+  - first:
+      74: 2964479953734304156
+    second: ChairMetal_L004|ChairWood_L017|Take 001|BaseLayer
+  - first:
+      74: 4269178516444223588
+    second: ChairMetal_L004|ChairWood_L018|Take 001|BaseLayer
+  - first:
+      74: 1449463612465447762
+    second: ChairMetal_L004|ChairWood_L019|Take 001|BaseLayer
+  - first:
+      74: 8944897707213397733
+    second: ChairMetal_L004|ChairWood_L020|Take 001|BaseLayer
+  - first:
+      74: 4815232101938961
+    second: ChairMetal_L004|ChairWood_L021|Take 001|BaseLayer
+  - first:
+      74: -4081282282455278654
+    second: ChairMetal_L004|ChairWood_L022|Take 001|BaseLayer
+  - first:
+      74: -1244588621050081387
+    second: ChairMetal_L004|ChairWood_L023|Take 001|BaseLayer
+  - first:
+      74: 6927092394711971093
+    second: ChairMetal_L004|ChairWood_L024|Take 001|BaseLayer
+  - first:
+      74: 1429794927335202117
+    second: ChairMetal_L004|ChairWood_L025|Take 001|BaseLayer
+  - first:
+      74: 6468556975711525455
+    second: ChairMetal_L004|ChairWood_L026|Take 001|BaseLayer
+  - first:
+      74: -2296657228964525582
+    second: ChairMetal_L004|ChairWood_L027|Take 001|BaseLayer
+  - first:
+      74: -8853883049882787632
+    second: ChairMetal_L004|ChairWood_L028|Take 001|BaseLayer
+  - first:
+      74: -3026253950830847502
+    second: ChairMetal_L004|ChairWood_L029|Take 001|BaseLayer
+  - first:
+      74: 7866776804032489995
+    second: ChairMetal_L004|ChairWood_L030|Take 001|BaseLayer
+  - first:
+      74: -9175819912821825777
+    second: ChairMetal_L004|ChairWood_L031|Take 001|BaseLayer
+  - first:
+      74: 4826869156849630751
+    second: ChairMetal_L004|ChairWood_L032|Take 001|BaseLayer
+  - first:
+      74: 6353880293528331205
+    second: ChairMetal_L004|ChairWood_L033|Take 001|BaseLayer
+  - first:
+      74: -1613690053312612776
+    second: ChairMetal_L004|ChairWood_L034|Take 001|BaseLayer
+  - first:
+      74: -7551842597432664293
+    second: ChairMetal_L004|ChairWood_L035|Take 001|BaseLayer
+  - first:
+      74: 7433559358146543071
+    second: ChairMetal_L004|ChairWood_L|Take 001|BaseLayer
+  - first:
+      74: 1368999710678154185
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.001
+  - first:
+      74: 7002298787500791060
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.002
+  - first:
+      74: -5804808354107527171
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.003
+  - first:
+      74: 1661195071206955173
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.004
+  - first:
+      74: 8069020709614705664
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.005
+  - first:
+      74: 8175876985767859870
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.006
+  - first:
+      74: 6496234950397965325
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.007
+  - first:
+      74: -6284786962830011559
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.008
+  - first:
+      74: 1734351697955565305
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.009
+  - first:
+      74: 7957211856348085492
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.010
+  - first:
+      74: 5759780241579924074
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.011
+  - first:
+      74: 7466438438549451021
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.012
+  - first:
+      74: 5291848591606087223
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.013
+  - first:
+      74: 5538560333884118368
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.014
+  - first:
+      74: -6817612270263466564
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.015
+  - first:
+      74: 9187031487142537939
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.016
+  - first:
+      74: 768573416845320906
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.017
+  - first:
+      74: 630657770445938511
+    second: ChairMetal_L004|DeskMetal_L003|Take 001|BaseLayer.018
+  - first:
+      74: 1513512294621082941
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.002
+  - first:
+      74: 1039590263874321742
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.003
+  - first:
+      74: -1429598563021143982
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.004
+  - first:
+      74: 7699479228449199905
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.005
+  - first:
+      74: -8681729193453934254
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.006
+  - first:
+      74: -4250493062181459622
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.007
+  - first:
+      74: 5889835711576920686
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.008
+  - first:
+      74: -447580272021609345
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.009
+  - first:
+      74: -7014669672395387258
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.010
+  - first:
+      74: 8088089258760314993
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.011
+  - first:
+      74: -7043255266143378664
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.012
+  - first:
+      74: 6206202954888181452
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.013
+  - first:
+      74: -4274106336932336778
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.014
+  - first:
+      74: 6433453028082097030
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.015
+  - first:
+      74: 1431941911381263254
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.016
+  - first:
+      74: 8102293121218698690
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.017
+  - first:
+      74: -3211019699565300270
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.018
+  - first:
+      74: 3381764840619081918
+    second: ChairMetal_L004|DeskWood_L003|Take 001|BaseLayer.024
+  - first:
+      74: -2115479787472045277
+    second: ChairMetal_L005|ChairMetal_L001|Take 001|BaseLayer
+  - first:
+      74: -6541695948662518084
+    second: ChairMetal_L005|ChairMetal_L002|Take 001|BaseLayer
+  - first:
+      74: -8005219518845171092
+    second: ChairMetal_L005|ChairMetal_L003|Take 001|BaseLayer
+  - first:
+      74: 6356069341153189170
+    second: ChairMetal_L005|ChairMetal_L004|Take 001|BaseLayer
+  - first:
+      74: 1624948013310350084
+    second: ChairMetal_L005|ChairMetal_L005|Take 001|BaseLayer
+  - first:
+      74: 4071183141083942572
+    second: ChairMetal_L005|ChairMetal_L006|Take 001|BaseLayer
+  - first:
+      74: 4058611333367227719
+    second: ChairMetal_L005|ChairMetal_L007|Take 001|BaseLayer
+  - first:
+      74: 4998724540341202701
+    second: ChairMetal_L005|ChairMetal_L008|Take 001|BaseLayer
+  - first:
+      74: -3028864089483863513
+    second: ChairMetal_L005|ChairMetal_L009|Take 001|BaseLayer
+  - first:
+      74: 8105747516392096235
+    second: ChairMetal_L005|ChairMetal_L010|Take 001|BaseLayer
+  - first:
+      74: 3673118972256500902
+    second: ChairMetal_L005|ChairMetal_L011|Take 001|BaseLayer
+  - first:
+      74: -7089274525442005489
+    second: ChairMetal_L005|ChairMetal_L012|Take 001|BaseLayer
+  - first:
+      74: 7814015548335375518
+    second: ChairMetal_L005|ChairMetal_L013|Take 001|BaseLayer
+  - first:
+      74: 1294464130231080013
+    second: ChairMetal_L005|ChairMetal_L014|Take 001|BaseLayer
+  - first:
+      74: 199987949725062869
+    second: ChairMetal_L005|ChairMetal_L015|Take 001|BaseLayer
+  - first:
+      74: -2892301495870484279
+    second: ChairMetal_L005|ChairMetal_L016|Take 001|BaseLayer
+  - first:
+      74: 2978048030915858489
+    second: ChairMetal_L005|ChairMetal_L017|Take 001|BaseLayer
+  - first:
+      74: -2827146264621825450
+    second: ChairMetal_L005|ChairMetal_L018|Take 001|BaseLayer
+  - first:
+      74: -3041865997454579643
+    second: ChairMetal_L005|ChairMetal_L019|Take 001|BaseLayer
+  - first:
+      74: -3220515924644984324
+    second: ChairMetal_L005|ChairMetal_L020|Take 001|BaseLayer
+  - first:
+      74: -4382624188049242494
+    second: ChairMetal_L005|ChairMetal_L021|Take 001|BaseLayer
+  - first:
+      74: 4797790912858910139
+    second: ChairMetal_L005|ChairMetal_L022|Take 001|BaseLayer
+  - first:
+      74: 5389804091977302070
+    second: ChairMetal_L005|ChairMetal_L023|Take 001|BaseLayer
+  - first:
+      74: -6120326479117254349
+    second: ChairMetal_L005|ChairMetal_L024|Take 001|BaseLayer
+  - first:
+      74: -9116814539627663114
+    second: ChairMetal_L005|ChairMetal_L025|Take 001|BaseLayer
+  - first:
+      74: 5915948654673415541
+    second: ChairMetal_L005|ChairMetal_L026|Take 001|BaseLayer
+  - first:
+      74: 5941470683265381806
+    second: ChairMetal_L005|ChairMetal_L027|Take 001|BaseLayer
+  - first:
+      74: -8898242812334115470
+    second: ChairMetal_L005|ChairMetal_L028|Take 001|BaseLayer
+  - first:
+      74: 4184995139018990105
+    second: ChairMetal_L005|ChairMetal_L029|Take 001|BaseLayer
+  - first:
+      74: -1699576008348954704
+    second: ChairMetal_L005|ChairMetal_L030|Take 001|BaseLayer
+  - first:
+      74: -7651337876327362832
+    second: ChairMetal_L005|ChairMetal_L031|Take 001|BaseLayer
+  - first:
+      74: 4812002717646779600
+    second: ChairMetal_L005|ChairMetal_L032|Take 001|BaseLayer
+  - first:
+      74: 7037647219415550696
+    second: ChairMetal_L005|ChairMetal_L033|Take 001|BaseLayer
+  - first:
+      74: -5843161678835792751
+    second: ChairMetal_L005|ChairMetal_L034|Take 001|BaseLayer
+  - first:
+      74: -23165438457987514
+    second: ChairMetal_L005|ChairMetal_L035|Take 001|BaseLayer
+  - first:
+      74: 848778468069291506
+    second: ChairMetal_L005|ChairMetal_L|Take 001|BaseLayer
+  - first:
+      74: -8692384326105036449
+    second: ChairMetal_L005|ChairWood_L001|Take 001|BaseLayer
+  - first:
+      74: -4951361146962798597
+    second: ChairMetal_L005|ChairWood_L002|Take 001|BaseLayer
+  - first:
+      74: 1256671008697046849
+    second: ChairMetal_L005|ChairWood_L003|Take 001|BaseLayer
+  - first:
+      74: -6845571632900625780
+    second: ChairMetal_L005|ChairWood_L004|Take 001|BaseLayer
+  - first:
+      74: -2695645620579491334
+    second: ChairMetal_L005|ChairWood_L005|Take 001|BaseLayer
+  - first:
+      74: -380084602751551157
+    second: ChairMetal_L005|ChairWood_L006|Take 001|BaseLayer
+  - first:
+      74: -7278056115357060761
+    second: ChairMetal_L005|ChairWood_L007|Take 001|BaseLayer
+  - first:
+      74: -508634551284837761
+    second: ChairMetal_L005|ChairWood_L008|Take 001|BaseLayer
+  - first:
+      74: -5644172504969349616
+    second: ChairMetal_L005|ChairWood_L009|Take 001|BaseLayer
+  - first:
+      74: 8946166403874199289
+    second: ChairMetal_L005|ChairWood_L010|Take 001|BaseLayer
+  - first:
+      74: 4230681502735369520
+    second: ChairMetal_L005|ChairWood_L011|Take 001|BaseLayer
+  - first:
+      74: -5259102244189878169
+    second: ChairMetal_L005|ChairWood_L012|Take 001|BaseLayer
+  - first:
+      74: -7375283815551793516
+    second: ChairMetal_L005|ChairWood_L013|Take 001|BaseLayer
+  - first:
+      74: -3595930722285907774
+    second: ChairMetal_L005|ChairWood_L014|Take 001|BaseLayer
+  - first:
+      74: -3677734978797774583
+    second: ChairMetal_L005|ChairWood_L015|Take 001|BaseLayer
+  - first:
+      74: -3944719331797052327
+    second: ChairMetal_L005|ChairWood_L016|Take 001|BaseLayer
+  - first:
+      74: 6992991287362223273
+    second: ChairMetal_L005|ChairWood_L017|Take 001|BaseLayer
+  - first:
+      74: -3895559949970975912
+    second: ChairMetal_L005|ChairWood_L018|Take 001|BaseLayer
+  - first:
+      74: -8676946449727905934
+    second: ChairMetal_L005|ChairWood_L019|Take 001|BaseLayer
+  - first:
+      74: -8836369662060878294
+    second: ChairMetal_L005|ChairWood_L020|Take 001|BaseLayer
+  - first:
+      74: 1844238698669724701
+    second: ChairMetal_L005|ChairWood_L021|Take 001|BaseLayer
+  - first:
+      74: -7634304458990460792
+    second: ChairMetal_L005|ChairWood_L022|Take 001|BaseLayer
+  - first:
+      74: -3596513313519071089
+    second: ChairMetal_L005|ChairWood_L023|Take 001|BaseLayer
+  - first:
+      74: 2965942100400934507
+    second: ChairMetal_L005|ChairWood_L024|Take 001|BaseLayer
+  - first:
+      74: 7364436346237348649
+    second: ChairMetal_L005|ChairWood_L025|Take 001|BaseLayer
+  - first:
+      74: 5572900854423932110
+    second: ChairMetal_L005|ChairWood_L026|Take 001|BaseLayer
+  - first:
+      74: -2415046000525227267
+    second: ChairMetal_L005|ChairWood_L027|Take 001|BaseLayer
+  - first:
+      74: 920591055885114867
+    second: ChairMetal_L005|ChairWood_L028|Take 001|BaseLayer
+  - first:
+      74: -3518903370500531891
+    second: ChairMetal_L005|ChairWood_L029|Take 001|BaseLayer
+  - first:
+      74: -1728881132493496477
+    second: ChairMetal_L005|ChairWood_L030|Take 001|BaseLayer
+  - first:
+      74: -139164846424754232
+    second: ChairMetal_L005|ChairWood_L031|Take 001|BaseLayer
+  - first:
+      74: -1052577679652211419
+    second: ChairMetal_L005|ChairWood_L032|Take 001|BaseLayer
+  - first:
+      74: 5995368282843782685
+    second: ChairMetal_L005|ChairWood_L033|Take 001|BaseLayer
+  - first:
+      74: 4395320228616567786
+    second: ChairMetal_L005|ChairWood_L034|Take 001|BaseLayer
+  - first:
+      74: -1901993979959773159
+    second: ChairMetal_L005|ChairWood_L035|Take 001|BaseLayer
+  - first:
+      74: -2429295671823437088
+    second: ChairMetal_L005|ChairWood_L|Take 001|BaseLayer
+  - first:
+      74: 7416107928940963348
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.001
+  - first:
+      74: 5479292198538575045
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.002
+  - first:
+      74: 6786330627056360382
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.003
+  - first:
+      74: 3442284740290223260
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.004
+  - first:
+      74: 2892592827772638556
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.005
+  - first:
+      74: -7331456415800613151
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.006
+  - first:
+      74: -8211789582471025049
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.007
+  - first:
+      74: 8892200399082205225
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.008
+  - first:
+      74: 2154593546074257390
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.009
+  - first:
+      74: 242155220069465385
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.010
+  - first:
+      74: 7654855689037960051
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.011
+  - first:
+      74: 8646476782631531261
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.012
+  - first:
+      74: 3784690897408314016
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.013
+  - first:
+      74: -59365877231564499
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.014
+  - first:
+      74: -4289125642146663788
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.015
+  - first:
+      74: -5622499187227602782
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.016
+  - first:
+      74: -2400787095651003668
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.017
+  - first:
+      74: 194643887725548001
+    second: ChairMetal_L005|DeskMetal_L003|Take 001|BaseLayer.018
+  - first:
+      74: -6904721296715164725
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.002
+  - first:
+      74: -5227859020254116235
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.003
+  - first:
+      74: -5189984060788002273
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.004
+  - first:
+      74: -2234535941951199297
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.005
+  - first:
+      74: 3492700910261583960
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.006
+  - first:
+      74: 6683344170311711910
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.007
+  - first:
+      74: 3352599471764629500
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.008
+  - first:
+      74: -2002812609089871675
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.009
+  - first:
+      74: 9170020733309803809
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.010
+  - first:
+      74: 4917279505726329043
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.011
+  - first:
+      74: 189179866013466137
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.012
+  - first:
+      74: 5790355942855245527
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.013
+  - first:
+      74: 3489824002541505897
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.014
+  - first:
+      74: 2253827791705729103
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.015
+  - first:
+      74: 2947242128732358669
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.016
+  - first:
+      74: 2381529959764123710
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.017
+  - first:
+      74: 1240464183187352046
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.018
+  - first:
+      74: -3810398250970319109
+    second: ChairMetal_L005|DeskWood_L003|Take 001|BaseLayer.024
+  - first:
+      74: 2228796367875542000
+    second: ChairWood_L004|ChairMetal_L001|Take 001|BaseLayer
+  - first:
+      74: 2196547960034213650
+    second: ChairWood_L004|ChairMetal_L002|Take 001|BaseLayer
+  - first:
+      74: -2877302918631817300
+    second: ChairWood_L004|ChairMetal_L003|Take 001|BaseLayer
+  - first:
+      74: 3319847316156794581
+    second: ChairWood_L004|ChairMetal_L004|Take 001|BaseLayer
+  - first:
+      74: -7257002957256360369
+    second: ChairWood_L004|ChairMetal_L005|Take 001|BaseLayer
+  - first:
+      74: 2450673881059248924
+    second: ChairWood_L004|ChairMetal_L006|Take 001|BaseLayer
+  - first:
+      74: 5772735790073091702
+    second: ChairWood_L004|ChairMetal_L007|Take 001|BaseLayer
+  - first:
+      74: -2563095389173604497
+    second: ChairWood_L004|ChairMetal_L008|Take 001|BaseLayer
+  - first:
+      74: 7006940803871921576
+    second: ChairWood_L004|ChairMetal_L009|Take 001|BaseLayer
+  - first:
+      74: -204627981296258847
+    second: ChairWood_L004|ChairMetal_L010|Take 001|BaseLayer
+  - first:
+      74: -7997633143661766807
+    second: ChairWood_L004|ChairMetal_L011|Take 001|BaseLayer
+  - first:
+      74: -1746939569975587643
+    second: ChairWood_L004|ChairMetal_L012|Take 001|BaseLayer
+  - first:
+      74: 9031146017544551096
+    second: ChairWood_L004|ChairMetal_L013|Take 001|BaseLayer
+  - first:
+      74: 383558923388166149
+    second: ChairWood_L004|ChairMetal_L014|Take 001|BaseLayer
+  - first:
+      74: 7096105989744096934
+    second: ChairWood_L004|ChairMetal_L015|Take 001|BaseLayer
+  - first:
+      74: -3606368270761303255
+    second: ChairWood_L004|ChairMetal_L016|Take 001|BaseLayer
+  - first:
+      74: 2608602541307512768
+    second: ChairWood_L004|ChairMetal_L017|Take 001|BaseLayer
+  - first:
+      74: -3198674463504164270
+    second: ChairWood_L004|ChairMetal_L018|Take 001|BaseLayer
+  - first:
+      74: 8670524365414205443
+    second: ChairWood_L004|ChairMetal_L019|Take 001|BaseLayer
+  - first:
+      74: 9163787305971109523
+    second: ChairWood_L004|ChairMetal_L020|Take 001|BaseLayer
+  - first:
+      74: 799220497917350422
+    second: ChairWood_L004|ChairMetal_L021|Take 001|BaseLayer
+  - first:
+      74: 8531542080519262632
+    second: ChairWood_L004|ChairMetal_L022|Take 001|BaseLayer
+  - first:
+      74: 811880543373101208
+    second: ChairWood_L004|ChairMetal_L023|Take 001|BaseLayer
+  - first:
+      74: 1385069967031034056
+    second: ChairWood_L004|ChairMetal_L024|Take 001|BaseLayer
+  - first:
+      74: 6510711557138495079
+    second: ChairWood_L004|ChairMetal_L025|Take 001|BaseLayer
+  - first:
+      74: 2871392574429919820
+    second: ChairWood_L004|ChairMetal_L026|Take 001|BaseLayer
+  - first:
+      74: 684769301291922349
+    second: ChairWood_L004|ChairMetal_L027|Take 001|BaseLayer
+  - first:
+      74: 1509946368370018161
+    second: ChairWood_L004|ChairMetal_L028|Take 001|BaseLayer
+  - first:
+      74: 1157449564071349403
+    second: ChairWood_L004|ChairMetal_L029|Take 001|BaseLayer
+  - first:
+      74: -4017298331686458102
+    second: ChairWood_L004|ChairMetal_L030|Take 001|BaseLayer
+  - first:
+      74: 8192783016726761440
+    second: ChairWood_L004|ChairMetal_L031|Take 001|BaseLayer
+  - first:
+      74: -9071279845097598759
+    second: ChairWood_L004|ChairMetal_L032|Take 001|BaseLayer
+  - first:
+      74: 5198108227342954272
+    second: ChairWood_L004|ChairMetal_L033|Take 001|BaseLayer
+  - first:
+      74: -4992526322803811910
+    second: ChairWood_L004|ChairMetal_L034|Take 001|BaseLayer
+  - first:
+      74: -5300715395637958524
+    second: ChairWood_L004|ChairMetal_L035|Take 001|BaseLayer
+  - first:
+      74: 2617253179213742795
+    second: ChairWood_L004|ChairMetal_L|Take 001|BaseLayer
+  - first:
+      74: 7371946097560405845
+    second: ChairWood_L004|ChairWood_L001|Take 001|BaseLayer
+  - first:
+      74: -3164407120454499852
+    second: ChairWood_L004|ChairWood_L002|Take 001|BaseLayer
+  - first:
+      74: -4418315891013559354
+    second: ChairWood_L004|ChairWood_L003|Take 001|BaseLayer
+  - first:
+      74: -8455204085318130762
+    second: ChairWood_L004|ChairWood_L004|Take 001|BaseLayer
+  - first:
+      74: -6860612637895513785
+    second: ChairWood_L004|ChairWood_L005|Take 001|BaseLayer
+  - first:
+      74: -5875703276203022530
+    second: ChairWood_L004|ChairWood_L006|Take 001|BaseLayer
+  - first:
+      74: 1044726183518018720
+    second: ChairWood_L004|ChairWood_L007|Take 001|BaseLayer
+  - first:
+      74: -5821469752673433600
+    second: ChairWood_L004|ChairWood_L008|Take 001|BaseLayer
+  - first:
+      74: 7444238913370942908
+    second: ChairWood_L004|ChairWood_L009|Take 001|BaseLayer
+  - first:
+      74: -7452636321529451282
+    second: ChairWood_L004|ChairWood_L010|Take 001|BaseLayer
+  - first:
+      74: 5062001312071528021
+    second: ChairWood_L004|ChairWood_L011|Take 001|BaseLayer
+  - first:
+      74: 3112559271583324078
+    second: ChairWood_L004|ChairWood_L012|Take 001|BaseLayer
+  - first:
+      74: -7940883901744973245
+    second: ChairWood_L004|ChairWood_L013|Take 001|BaseLayer
+  - first:
+      74: 1367098582724389988
+    second: ChairWood_L004|ChairWood_L014|Take 001|BaseLayer
+  - first:
+      74: 140853525590159579
+    second: ChairWood_L004|ChairWood_L015|Take 001|BaseLayer
+  - first:
+      74: -4251445015137856938
+    second: ChairWood_L004|ChairWood_L016|Take 001|BaseLayer
+  - first:
+      74: -3010280160763567777
+    second: ChairWood_L004|ChairWood_L017|Take 001|BaseLayer
+  - first:
+      74: 6433147392620310178
+    second: ChairWood_L004|ChairWood_L018|Take 001|BaseLayer
+  - first:
+      74: 4462027427500662378
+    second: ChairWood_L004|ChairWood_L019|Take 001|BaseLayer
+  - first:
+      74: 8672899732253166051
+    second: ChairWood_L004|ChairWood_L020|Take 001|BaseLayer
+  - first:
+      74: -1658375145548515414
+    second: ChairWood_L004|ChairWood_L021|Take 001|BaseLayer
+  - first:
+      74: -7034282705216932667
+    second: ChairWood_L004|ChairWood_L022|Take 001|BaseLayer
+  - first:
+      74: 842980267911620913
+    second: ChairWood_L004|ChairWood_L023|Take 001|BaseLayer
+  - first:
+      74: -45061920219821346
+    second: ChairWood_L004|ChairWood_L024|Take 001|BaseLayer
+  - first:
+      74: -3187497286368565136
+    second: ChairWood_L004|ChairWood_L025|Take 001|BaseLayer
+  - first:
+      74: 7935338762193584182
+    second: ChairWood_L004|ChairWood_L026|Take 001|BaseLayer
+  - first:
+      74: 1718194237967554218
+    second: ChairWood_L004|ChairWood_L027|Take 001|BaseLayer
+  - first:
+      74: -7101491478230004439
+    second: ChairWood_L004|ChairWood_L028|Take 001|BaseLayer
+  - first:
+      74: 4382827712438444453
+    second: ChairWood_L004|ChairWood_L029|Take 001|BaseLayer
+  - first:
+      74: -401632295613968437
+    second: ChairWood_L004|ChairWood_L030|Take 001|BaseLayer
+  - first:
+      74: 7128271085067939830
+    second: ChairWood_L004|ChairWood_L031|Take 001|BaseLayer
+  - first:
+      74: -3876248371172333039
+    second: ChairWood_L004|ChairWood_L032|Take 001|BaseLayer
+  - first:
+      74: -3979697068874371701
+    second: ChairWood_L004|ChairWood_L033|Take 001|BaseLayer
+  - first:
+      74: -8787768549234583297
+    second: ChairWood_L004|ChairWood_L034|Take 001|BaseLayer
+  - first:
+      74: -5451907082863351241
+    second: ChairWood_L004|ChairWood_L035|Take 001|BaseLayer
+  - first:
+      74: -6864622012786004202
+    second: ChairWood_L004|ChairWood_L|Take 001|BaseLayer
+  - first:
+      74: -2448559415996568660
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.001
+  - first:
+      74: -4013467800886310566
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.002
+  - first:
+      74: 1179783289092143747
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.003
+  - first:
+      74: 8490591926291112069
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.004
+  - first:
+      74: -3875191519291167253
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.005
+  - first:
+      74: -7034310249650633835
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.006
+  - first:
+      74: -8897726468631348335
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.007
+  - first:
+      74: -3580083773340840627
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.008
+  - first:
+      74: 3172659225402170821
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.009
+  - first:
+      74: -4745898527592741791
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.010
+  - first:
+      74: -6781423372826358691
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.011
+  - first:
+      74: -3575610289702813595
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.012
+  - first:
+      74: -3214414303335865015
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.013
+  - first:
+      74: -2345301828234906075
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.014
+  - first:
+      74: 1117024928749692921
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.015
+  - first:
+      74: 5803054047599096478
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.016
+  - first:
+      74: 8492261488282653659
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.017
+  - first:
+      74: -6250697293595576697
+    second: ChairWood_L004|DeskMetal_L003|Take 001|BaseLayer.018
+  - first:
+      74: -4499158254940732
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.002
+  - first:
+      74: 2248466095940268317
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.003
+  - first:
+      74: -5319851050791491170
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.004
+  - first:
+      74: 3396900174810874107
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.005
+  - first:
+      74: 645075111200629794
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.006
+  - first:
+      74: -1661203084407911610
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.007
+  - first:
+      74: -1200270741898982664
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.008
+  - first:
+      74: -3948416700417124610
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.009
+  - first:
+      74: 6108172244891400812
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.010
+  - first:
+      74: 852401203096336505
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.011
+  - first:
+      74: -973034764056062391
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.012
+  - first:
+      74: -3245112136075657493
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.013
+  - first:
+      74: -3578454715286838361
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.014
+  - first:
+      74: 8115880837780375291
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.015
+  - first:
+      74: -5398548801357143897
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.016
+  - first:
+      74: 4351484105082369840
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.017
+  - first:
+      74: 5064102770431162521
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.018
+  - first:
+      74: 2761704856932721295
+    second: ChairWood_L004|DeskWood_L003|Take 001|BaseLayer.024
+  - first:
+      74: 524077241729277076
+    second: ChairWood_L005|ChairMetal_L001|Take 001|BaseLayer
+  - first:
+      74: -1234545657408701361
+    second: ChairWood_L005|ChairMetal_L002|Take 001|BaseLayer
+  - first:
+      74: 6386856751660802983
+    second: ChairWood_L005|ChairMetal_L003|Take 001|BaseLayer
+  - first:
+      74: -3571342727255183868
+    second: ChairWood_L005|ChairMetal_L004|Take 001|BaseLayer
+  - first:
+      74: 399213689599464717
+    second: ChairWood_L005|ChairMetal_L005|Take 001|BaseLayer
+  - first:
+      74: -3811210279678048184
+    second: ChairWood_L005|ChairMetal_L006|Take 001|BaseLayer
+  - first:
+      74: -6758897221462064460
+    second: ChairWood_L005|ChairMetal_L007|Take 001|BaseLayer
+  - first:
+      74: 9005672480934723616
+    second: ChairWood_L005|ChairMetal_L008|Take 001|BaseLayer
+  - first:
+      74: 82798616816946248
+    second: ChairWood_L005|ChairMetal_L009|Take 001|BaseLayer
+  - first:
+      74: 5449916741767357608
+    second: ChairWood_L005|ChairMetal_L010|Take 001|BaseLayer
+  - first:
+      74: 8347699028577628224
+    second: ChairWood_L005|ChairMetal_L011|Take 001|BaseLayer
+  - first:
+      74: 4917778769697961108
+    second: ChairWood_L005|ChairMetal_L012|Take 001|BaseLayer
+  - first:
+      74: 5465597877054390598
+    second: ChairWood_L005|ChairMetal_L013|Take 001|BaseLayer
+  - first:
+      74: 6955155227661297488
+    second: ChairWood_L005|ChairMetal_L014|Take 001|BaseLayer
+  - first:
+      74: -5108125460756341077
+    second: ChairWood_L005|ChairMetal_L015|Take 001|BaseLayer
+  - first:
+      74: 7032358609822671420
+    second: ChairWood_L005|ChairMetal_L016|Take 001|BaseLayer
+  - first:
+      74: 7482005730954800982
+    second: ChairWood_L005|ChairMetal_L017|Take 001|BaseLayer
+  - first:
+      74: -2568056031995588469
+    second: ChairWood_L005|ChairMetal_L018|Take 001|BaseLayer
+  - first:
+      74: -7291732476972350349
+    second: ChairWood_L005|ChairMetal_L019|Take 001|BaseLayer
+  - first:
+      74: -3753753678082475119
+    second: ChairWood_L005|ChairMetal_L020|Take 001|BaseLayer
+  - first:
+      74: -6978616106811175175
+    second: ChairWood_L005|ChairMetal_L021|Take 001|BaseLayer
+  - first:
+      74: 3128853420824210190
+    second: ChairWood_L005|ChairMetal_L022|Take 001|BaseLayer
+  - first:
+      74: -5069027533891681749
+    second: ChairWood_L005|ChairMetal_L023|Take 001|BaseLayer
+  - first:
+      74: -5335289283368594032
+    second: ChairWood_L005|ChairMetal_L024|Take 001|BaseLayer
+  - first:
+      74: -6528391551296711706
+    second: ChairWood_L005|ChairMetal_L025|Take 001|BaseLayer
+  - first:
+      74: 332099591130387818
+    second: ChairWood_L005|ChairMetal_L026|Take 001|BaseLayer
+  - first:
+      74: 6363994801904974980
+    second: ChairWood_L005|ChairMetal_L027|Take 001|BaseLayer
+  - first:
+      74: 2626719884959494348
+    second: ChairWood_L005|ChairMetal_L028|Take 001|BaseLayer
+  - first:
+      74: -5992099093933319155
+    second: ChairWood_L005|ChairMetal_L029|Take 001|BaseLayer
+  - first:
+      74: -2961212389079762600
+    second: ChairWood_L005|ChairMetal_L030|Take 001|BaseLayer
+  - first:
+      74: -1585429491646103419
+    second: ChairWood_L005|ChairMetal_L031|Take 001|BaseLayer
+  - first:
+      74: -7258577725266394543
+    second: ChairWood_L005|ChairMetal_L032|Take 001|BaseLayer
+  - first:
+      74: 7781729241026040318
+    second: ChairWood_L005|ChairMetal_L033|Take 001|BaseLayer
+  - first:
+      74: -1422267997607738403
+    second: ChairWood_L005|ChairMetal_L034|Take 001|BaseLayer
+  - first:
+      74: 8054684448795769215
+    second: ChairWood_L005|ChairMetal_L035|Take 001|BaseLayer
+  - first:
+      74: -3712479537803643046
+    second: ChairWood_L005|ChairMetal_L|Take 001|BaseLayer
+  - first:
+      74: -8035494683784491569
+    second: ChairWood_L005|ChairWood_L001|Take 001|BaseLayer
+  - first:
+      74: 4523283268748393028
+    second: ChairWood_L005|ChairWood_L002|Take 001|BaseLayer
+  - first:
+      74: -688546980070861133
+    second: ChairWood_L005|ChairWood_L003|Take 001|BaseLayer
+  - first:
+      74: 4339254913864490738
+    second: ChairWood_L005|ChairWood_L004|Take 001|BaseLayer
+  - first:
+      74: -7397723047464497861
+    second: ChairWood_L005|ChairWood_L005|Take 001|BaseLayer
+  - first:
+      74: -4371904469992309513
+    second: ChairWood_L005|ChairWood_L006|Take 001|BaseLayer
+  - first:
+      74: -7712016858773139015
+    second: ChairWood_L005|ChairWood_L007|Take 001|BaseLayer
+  - first:
+      74: 7908500774912239388
+    second: ChairWood_L005|ChairWood_L008|Take 001|BaseLayer
+  - first:
+      74: 6655300993511117190
+    second: ChairWood_L005|ChairWood_L009|Take 001|BaseLayer
+  - first:
+      74: 5879031761915768273
+    second: ChairWood_L005|ChairWood_L010|Take 001|BaseLayer
+  - first:
+      74: -5810033185118956203
+    second: ChairWood_L005|ChairWood_L011|Take 001|BaseLayer
+  - first:
+      74: 2153248891630843547
+    second: ChairWood_L005|ChairWood_L012|Take 001|BaseLayer
+  - first:
+      74: -8018517099533576485
+    second: ChairWood_L005|ChairWood_L013|Take 001|BaseLayer
+  - first:
+      74: -930994077050944261
+    second: ChairWood_L005|ChairWood_L014|Take 001|BaseLayer
+  - first:
+      74: -5455018394217927996
+    second: ChairWood_L005|ChairWood_L015|Take 001|BaseLayer
+  - first:
+      74: -434836511267175079
+    second: ChairWood_L005|ChairWood_L016|Take 001|BaseLayer
+  - first:
+      74: -4338417357574371906
+    second: ChairWood_L005|ChairWood_L017|Take 001|BaseLayer
+  - first:
+      74: -125398733742111792
+    second: ChairWood_L005|ChairWood_L018|Take 001|BaseLayer
+  - first:
+      74: 6250188508216400743
+    second: ChairWood_L005|ChairWood_L019|Take 001|BaseLayer
+  - first:
+      74: 8956294596964861657
+    second: ChairWood_L005|ChairWood_L020|Take 001|BaseLayer
+  - first:
+      74: 7679655236424851532
+    second: ChairWood_L005|ChairWood_L021|Take 001|BaseLayer
+  - first:
+      74: -3147132094907488550
+    second: ChairWood_L005|ChairWood_L022|Take 001|BaseLayer
+  - first:
+      74: -7028375910663090776
+    second: ChairWood_L005|ChairWood_L023|Take 001|BaseLayer
+  - first:
+      74: 4157806212696620308
+    second: ChairWood_L005|ChairWood_L024|Take 001|BaseLayer
+  - first:
+      74: -6205318289621597106
+    second: ChairWood_L005|ChairWood_L025|Take 001|BaseLayer
+  - first:
+      74: 3531477055463800640
+    second: ChairWood_L005|ChairWood_L026|Take 001|BaseLayer
+  - first:
+      74: -2995004050921465810
+    second: ChairWood_L005|ChairWood_L027|Take 001|BaseLayer
+  - first:
+      74: -8626196829619153931
+    second: ChairWood_L005|ChairWood_L028|Take 001|BaseLayer
+  - first:
+      74: -6660022703244275516
+    second: ChairWood_L005|ChairWood_L029|Take 001|BaseLayer
+  - first:
+      74: 4853861600400422885
+    second: ChairWood_L005|ChairWood_L030|Take 001|BaseLayer
+  - first:
+      74: 1953391287890145502
+    second: ChairWood_L005|ChairWood_L031|Take 001|BaseLayer
+  - first:
+      74: 4339965050452375360
+    second: ChairWood_L005|ChairWood_L032|Take 001|BaseLayer
+  - first:
+      74: 1836047626536880321
+    second: ChairWood_L005|ChairWood_L033|Take 001|BaseLayer
+  - first:
+      74: 341572241114904476
+    second: ChairWood_L005|ChairWood_L034|Take 001|BaseLayer
+  - first:
+      74: -6145713184793308707
+    second: ChairWood_L005|ChairWood_L035|Take 001|BaseLayer
+  - first:
+      74: -8535430328366683837
+    second: ChairWood_L005|ChairWood_L|Take 001|BaseLayer
+  - first:
+      74: -6171879682910008651
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.001
+  - first:
+      74: 1006830804963356124
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.002
+  - first:
+      74: 7963892835516469334
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.003
+  - first:
+      74: -6782064416546518968
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.004
+  - first:
+      74: 3079635890023944040
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.005
+  - first:
+      74: 2304170112126844728
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.006
+  - first:
+      74: -140734891703862980
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.007
+  - first:
+      74: 610746679652304744
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.008
+  - first:
+      74: -8688018040812264280
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.009
+  - first:
+      74: -2936218321875105514
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.010
+  - first:
+      74: -1825960619468881016
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.011
+  - first:
+      74: -7082419693955384434
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.012
+  - first:
+      74: 4345456286732169404
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.013
+  - first:
+      74: 2327204821218186570
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.014
+  - first:
+      74: 9211783161418419698
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.015
+  - first:
+      74: 2411768746849318986
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.016
+  - first:
+      74: -2992502064480482031
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.017
+  - first:
+      74: 5548592753293498534
+    second: ChairWood_L005|DeskMetal_L003|Take 001|BaseLayer.018
+  - first:
+      74: -5571928548785253358
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.002
+  - first:
+      74: -462160640349557971
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.003
+  - first:
+      74: -3657091057178423203
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.004
+  - first:
+      74: -2658144616565406267
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.005
+  - first:
+      74: -6983097342083139281
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.006
+  - first:
+      74: -7708080912853160201
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.007
+  - first:
+      74: 3468454791307440861
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.008
+  - first:
+      74: -2878069213167811268
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.009
+  - first:
+      74: -6856136029999545904
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.010
+  - first:
+      74: 4590590523305908263
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.011
+  - first:
+      74: -6328962889969508562
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.012
+  - first:
+      74: 8360113220562764726
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.013
+  - first:
+      74: 1703235564522323225
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.014
+  - first:
+      74: 8733378635579243880
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.015
+  - first:
+      74: -6092710131658267586
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.016
+  - first:
+      74: -7666636956949876761
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.017
+  - first:
+      74: -7056601546490775300
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.018
+  - first:
+      74: 4316482679497837587
+    second: ChairWood_L005|DeskWood_L003|Take 001|BaseLayer.024
+  - first:
+      74: -3996204499512637382
+    second: DeskMetal_L003.003|ChairMetal_L001|Take 001|BaseLayer
+  - first:
+      74: -7624287136227738103
+    second: DeskMetal_L003.003|ChairMetal_L002|Take 001|BaseLayer
+  - first:
+      74: 2852006753944052866
+    second: DeskMetal_L003.003|ChairMetal_L003|Take 001|BaseLayer
+  - first:
+      74: 3644015018044696275
+    second: DeskMetal_L003.003|ChairMetal_L004|Take 001|BaseLayer
+  - first:
+      74: 1404080082738510392
+    second: DeskMetal_L003.003|ChairMetal_L005|Take 001|BaseLayer
+  - first:
+      74: -5481067768029058048
+    second: DeskMetal_L003.003|ChairMetal_L006|Take 001|BaseLayer
+  - first:
+      74: 487214711334380372
+    second: DeskMetal_L003.003|ChairMetal_L007|Take 001|BaseLayer
+  - first:
+      74: -5159347446429788484
+    second: DeskMetal_L003.003|ChairMetal_L008|Take 001|BaseLayer
+  - first:
+      74: -5806946745532895032
+    second: DeskMetal_L003.003|ChairMetal_L009|Take 001|BaseLayer
+  - first:
+      74: -8620514606924119100
+    second: DeskMetal_L003.003|ChairMetal_L010|Take 001|BaseLayer
+  - first:
+      74: 7010303280531719476
+    second: DeskMetal_L003.003|ChairMetal_L011|Take 001|BaseLayer
+  - first:
+      74: -2799782378993999065
+    second: DeskMetal_L003.003|ChairMetal_L012|Take 001|BaseLayer
+  - first:
+      74: 5757825232090285710
+    second: DeskMetal_L003.003|ChairMetal_L013|Take 001|BaseLayer
+  - first:
+      74: 53634780721607874
+    second: DeskMetal_L003.003|ChairMetal_L014|Take 001|BaseLayer
+  - first:
+      74: 467632404793160793
+    second: DeskMetal_L003.003|ChairMetal_L015|Take 001|BaseLayer
+  - first:
+      74: 8042978846781346107
+    second: DeskMetal_L003.003|ChairMetal_L016|Take 001|BaseLayer
+  - first:
+      74: 2597506837563908643
+    second: DeskMetal_L003.003|ChairMetal_L017|Take 001|BaseLayer
+  - first:
+      74: 7064259572177425130
+    second: DeskMetal_L003.003|ChairMetal_L018|Take 001|BaseLayer
+  - first:
+      74: 175208056013638181
+    second: DeskMetal_L003.003|ChairMetal_L019|Take 001|BaseLayer
+  - first:
+      74: -7424972078983041568
+    second: DeskMetal_L003.003|ChairMetal_L020|Take 001|BaseLayer
+  - first:
+      74: -4468553839450108652
+    second: DeskMetal_L003.003|ChairMetal_L021|Take 001|BaseLayer
+  - first:
+      74: -7850557591152272926
+    second: DeskMetal_L003.003|ChairMetal_L022|Take 001|BaseLayer
+  - first:
+      74: 735271350515163623
+    second: DeskMetal_L003.003|ChairMetal_L023|Take 001|BaseLayer
+  - first:
+      74: 2007459958289817441
+    second: DeskMetal_L003.003|ChairMetal_L024|Take 001|BaseLayer
+  - first:
+      74: 5914300856638112742
+    second: DeskMetal_L003.003|ChairMetal_L025|Take 001|BaseLayer
+  - first:
+      74: 1032376512124953688
+    second: DeskMetal_L003.003|ChairMetal_L026|Take 001|BaseLayer
+  - first:
+      74: 160562024281586290
+    second: DeskMetal_L003.003|ChairMetal_L027|Take 001|BaseLayer
+  - first:
+      74: 1286682058407996812
+    second: DeskMetal_L003.003|ChairMetal_L028|Take 001|BaseLayer
+  - first:
+      74: -689140024965861180
+    second: DeskMetal_L003.003|ChairMetal_L029|Take 001|BaseLayer
+  - first:
+      74: -8560052900351960690
+    second: DeskMetal_L003.003|ChairMetal_L030|Take 001|BaseLayer
+  - first:
+      74: -2093033245526647225
+    second: DeskMetal_L003.003|ChairMetal_L031|Take 001|BaseLayer
+  - first:
+      74: 8977352328390031458
+    second: DeskMetal_L003.003|ChairMetal_L032|Take 001|BaseLayer
+  - first:
+      74: -6688473228827440337
+    second: DeskMetal_L003.003|ChairMetal_L033|Take 001|BaseLayer
+  - first:
+      74: -7901952898448908895
+    second: DeskMetal_L003.003|ChairMetal_L034|Take 001|BaseLayer
+  - first:
+      74: -8484208838742813734
+    second: DeskMetal_L003.003|ChairMetal_L035|Take 001|BaseLayer
+  - first:
+      74: 5265906398996567356
+    second: DeskMetal_L003.003|ChairMetal_L|Take 001|BaseLayer
+  - first:
+      74: -1620112254180153460
+    second: DeskMetal_L003.003|ChairWood_L001|Take 001|BaseLayer
+  - first:
+      74: 890414386447130179
+    second: DeskMetal_L003.003|ChairWood_L002|Take 001|BaseLayer
+  - first:
+      74: -1719303176638548178
+    second: DeskMetal_L003.003|ChairWood_L003|Take 001|BaseLayer
+  - first:
+      74: -1555174663463871780
+    second: DeskMetal_L003.003|ChairWood_L004|Take 001|BaseLayer
+  - first:
+      74: -7419632323303090314
+    second: DeskMetal_L003.003|ChairWood_L005|Take 001|BaseLayer
+  - first:
+      74: -4221240786940265779
+    second: DeskMetal_L003.003|ChairWood_L006|Take 001|BaseLayer
+  - first:
+      74: 6651996528156443030
+    second: DeskMetal_L003.003|ChairWood_L007|Take 001|BaseLayer
+  - first:
+      74: 8038248085953763917
+    second: DeskMetal_L003.003|ChairWood_L008|Take 001|BaseLayer
+  - first:
+      74: -1346181047906679416
+    second: DeskMetal_L003.003|ChairWood_L009|Take 001|BaseLayer
+  - first:
+      74: 8329404777167136822
+    second: DeskMetal_L003.003|ChairWood_L010|Take 001|BaseLayer
+  - first:
+      74: 1422930552741688157
+    second: DeskMetal_L003.003|ChairWood_L011|Take 001|BaseLayer
+  - first:
+      74: 2513994205363458363
+    second: DeskMetal_L003.003|ChairWood_L012|Take 001|BaseLayer
+  - first:
+      74: 6142787236674367442
+    second: DeskMetal_L003.003|ChairWood_L013|Take 001|BaseLayer
+  - first:
+      74: 2250875646760499522
+    second: DeskMetal_L003.003|ChairWood_L014|Take 001|BaseLayer
+  - first:
+      74: 5047784280571445991
+    second: DeskMetal_L003.003|ChairWood_L015|Take 001|BaseLayer
+  - first:
+      74: 1564933844789796321
+    second: DeskMetal_L003.003|ChairWood_L016|Take 001|BaseLayer
+  - first:
+      74: -3862281681921052863
+    second: DeskMetal_L003.003|ChairWood_L017|Take 001|BaseLayer
+  - first:
+      74: -2513598300724333017
+    second: DeskMetal_L003.003|ChairWood_L018|Take 001|BaseLayer
+  - first:
+      74: 5807447977898224541
+    second: DeskMetal_L003.003|ChairWood_L019|Take 001|BaseLayer
+  - first:
+      74: -3955662956738281486
+    second: DeskMetal_L003.003|ChairWood_L020|Take 001|BaseLayer
+  - first:
+      74: -8085751695971379139
+    second: DeskMetal_L003.003|ChairWood_L021|Take 001|BaseLayer
+  - first:
+      74: -7511328450727618696
+    second: DeskMetal_L003.003|ChairWood_L022|Take 001|BaseLayer
+  - first:
+      74: 3158790732543178654
+    second: DeskMetal_L003.003|ChairWood_L023|Take 001|BaseLayer
+  - first:
+      74: -1142258452832523347
+    second: DeskMetal_L003.003|ChairWood_L024|Take 001|BaseLayer
+  - first:
+      74: 8036045385163794814
+    second: DeskMetal_L003.003|ChairWood_L025|Take 001|BaseLayer
+  - first:
+      74: -5958188130971363630
+    second: DeskMetal_L003.003|ChairWood_L026|Take 001|BaseLayer
+  - first:
+      74: -4814058294384644601
+    second: DeskMetal_L003.003|ChairWood_L027|Take 001|BaseLayer
+  - first:
+      74: -7349377052371393316
+    second: DeskMetal_L003.003|ChairWood_L028|Take 001|BaseLayer
+  - first:
+      74: -2114546488465556627
+    second: DeskMetal_L003.003|ChairWood_L029|Take 001|BaseLayer
+  - first:
+      74: 1657745669969904240
+    second: DeskMetal_L003.003|ChairWood_L030|Take 001|BaseLayer
+  - first:
+      74: -6629690713244341339
+    second: DeskMetal_L003.003|ChairWood_L031|Take 001|BaseLayer
+  - first:
+      74: -1669047159949972677
+    second: DeskMetal_L003.003|ChairWood_L032|Take 001|BaseLayer
+  - first:
+      74: -6416732258856799066
+    second: DeskMetal_L003.003|ChairWood_L033|Take 001|BaseLayer
+  - first:
+      74: -3503656438242754151
+    second: DeskMetal_L003.003|ChairWood_L034|Take 001|BaseLayer
+  - first:
+      74: -7359607503229785392
+    second: DeskMetal_L003.003|ChairWood_L035|Take 001|BaseLayer
+  - first:
+      74: -138334326955052821
+    second: DeskMetal_L003.003|ChairWood_L|Take 001|BaseLayer
+  - first:
+      74: 5762561533306221456
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.001
+  - first:
+      74: -4521603453425506580
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.002
+  - first:
+      74: -8970022820692147881
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.003
+  - first:
+      74: 8269449977872707501
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.004
+  - first:
+      74: 9114995835046012720
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.005
+  - first:
+      74: -5642079241573006508
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.006
+  - first:
+      74: 3870384708940526109
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.007
+  - first:
+      74: 1835198269830874480
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.008
+  - first:
+      74: -1803448199830736498
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.009
+  - first:
+      74: -7400668422703988870
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.010
+  - first:
+      74: 2067396378650866956
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.011
+  - first:
+      74: 1650674561290030925
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.012
+  - first:
+      74: -7372175293460637430
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.013
+  - first:
+      74: 8901914790419533548
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.014
+  - first:
+      74: 2010804152315715413
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.015
+  - first:
+      74: -2748546020912085300
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.016
+  - first:
+      74: -5498717906064229789
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.017
+  - first:
+      74: 2248434505214738059
+    second: DeskMetal_L003.003|DeskMetal_L003|Take 001|BaseLayer.018
+  - first:
+      74: -2121131009556789505
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.002
+  - first:
+      74: -3504787178185178343
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.003
+  - first:
+      74: 8800431221345513352
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.004
+  - first:
+      74: 9032693001417551297
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.005
+  - first:
+      74: 877719739314745028
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.006
+  - first:
+      74: -1640407319519246505
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.007
+  - first:
+      74: -4070923054082007523
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.008
+  - first:
+      74: -3313131860156385545
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.009
+  - first:
+      74: 54519562345363438
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.010
+  - first:
+      74: 579256105474643018
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.011
+  - first:
+      74: 8260310338037464726
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.012
+  - first:
+      74: -6944429204014121781
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.013
+  - first:
+      74: -1318162560286878507
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.014
+  - first:
+      74: 3216548727734029993
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.015
+  - first:
+      74: -3407535701452958634
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.016
+  - first:
+      74: -8475187733920188236
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.017
+  - first:
+      74: -8566703705077516747
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.018
+  - first:
+      74: -2065095091036075795
+    second: DeskMetal_L003.003|DeskWood_L003|Take 001|BaseLayer.024
+  - first:
+      74: 615693107833393921
+    second: DeskWood_L003.003|ChairMetal_L001|Take 001|BaseLayer
+  - first:
+      74: 4551848973140681971
+    second: DeskWood_L003.003|ChairMetal_L002|Take 001|BaseLayer
+  - first:
+      74: -5797737026695864653
+    second: DeskWood_L003.003|ChairMetal_L003|Take 001|BaseLayer
+  - first:
+      74: -7932411191516863480
+    second: DeskWood_L003.003|ChairMetal_L004|Take 001|BaseLayer
+  - first:
+      74: -127097473996765591
+    second: DeskWood_L003.003|ChairMetal_L005|Take 001|BaseLayer
+  - first:
+      74: -6046038385236594886
+    second: DeskWood_L003.003|ChairMetal_L006|Take 001|BaseLayer
+  - first:
+      74: -1411537998124260149
+    second: DeskWood_L003.003|ChairMetal_L007|Take 001|BaseLayer
+  - first:
+      74: 5098326597092550698
+    second: DeskWood_L003.003|ChairMetal_L008|Take 001|BaseLayer
+  - first:
+      74: -6636915105419225950
+    second: DeskWood_L003.003|ChairMetal_L009|Take 001|BaseLayer
+  - first:
+      74: 5427044287092926701
+    second: DeskWood_L003.003|ChairMetal_L010|Take 001|BaseLayer
+  - first:
+      74: -4041636638775687133
+    second: DeskWood_L003.003|ChairMetal_L011|Take 001|BaseLayer
+  - first:
+      74: -1989970342910241537
+    second: DeskWood_L003.003|ChairMetal_L012|Take 001|BaseLayer
+  - first:
+      74: -2516828381451608492
+    second: DeskWood_L003.003|ChairMetal_L013|Take 001|BaseLayer
+  - first:
+      74: -5957341566712330396
+    second: DeskWood_L003.003|ChairMetal_L014|Take 001|BaseLayer
+  - first:
+      74: 7554881034176476079
+    second: DeskWood_L003.003|ChairMetal_L015|Take 001|BaseLayer
+  - first:
+      74: 4659261576360595899
+    second: DeskWood_L003.003|ChairMetal_L016|Take 001|BaseLayer
+  - first:
+      74: 1196481597829662531
+    second: DeskWood_L003.003|ChairMetal_L017|Take 001|BaseLayer
+  - first:
+      74: 3687222337299071704
+    second: DeskWood_L003.003|ChairMetal_L018|Take 001|BaseLayer
+  - first:
+      74: -1478254842065739306
+    second: DeskWood_L003.003|ChairMetal_L019|Take 001|BaseLayer
+  - first:
+      74: -8202221054010539823
+    second: DeskWood_L003.003|ChairMetal_L020|Take 001|BaseLayer
+  - first:
+      74: -2058014490977004258
+    second: DeskWood_L003.003|ChairMetal_L021|Take 001|BaseLayer
+  - first:
+      74: -981291211373773002
+    second: DeskWood_L003.003|ChairMetal_L022|Take 001|BaseLayer
+  - first:
+      74: 750875785051681291
+    second: DeskWood_L003.003|ChairMetal_L023|Take 001|BaseLayer
+  - first:
+      74: 6367549569416761122
+    second: DeskWood_L003.003|ChairMetal_L024|Take 001|BaseLayer
+  - first:
+      74: -1586070487534509435
+    second: DeskWood_L003.003|ChairMetal_L025|Take 001|BaseLayer
+  - first:
+      74: 5162358541880137346
+    second: DeskWood_L003.003|ChairMetal_L026|Take 001|BaseLayer
+  - first:
+      74: -2375127800061538124
+    second: DeskWood_L003.003|ChairMetal_L027|Take 001|BaseLayer
+  - first:
+      74: 6037555495764900023
+    second: DeskWood_L003.003|ChairMetal_L028|Take 001|BaseLayer
+  - first:
+      74: -7158419942083786317
+    second: DeskWood_L003.003|ChairMetal_L029|Take 001|BaseLayer
+  - first:
+      74: 2236442866666324815
+    second: DeskWood_L003.003|ChairMetal_L030|Take 001|BaseLayer
+  - first:
+      74: -843842754884430659
+    second: DeskWood_L003.003|ChairMetal_L031|Take 001|BaseLayer
+  - first:
+      74: 1648695985392546369
+    second: DeskWood_L003.003|ChairMetal_L032|Take 001|BaseLayer
+  - first:
+      74: -2830288082303835266
+    second: DeskWood_L003.003|ChairMetal_L033|Take 001|BaseLayer
+  - first:
+      74: 3978174311286749620
+    second: DeskWood_L003.003|ChairMetal_L034|Take 001|BaseLayer
+  - first:
+      74: -5739318929677509800
+    second: DeskWood_L003.003|ChairMetal_L035|Take 001|BaseLayer
+  - first:
+      74: -3412483348998638653
+    second: DeskWood_L003.003|ChairMetal_L|Take 001|BaseLayer
+  - first:
+      74: 7895025801540717992
+    second: DeskWood_L003.003|ChairWood_L001|Take 001|BaseLayer
+  - first:
+      74: 1103397796458248376
+    second: DeskWood_L003.003|ChairWood_L002|Take 001|BaseLayer
+  - first:
+      74: -3577056031457029158
+    second: DeskWood_L003.003|ChairWood_L003|Take 001|BaseLayer
+  - first:
+      74: 7644398993202011507
+    second: DeskWood_L003.003|ChairWood_L004|Take 001|BaseLayer
+  - first:
+      74: -8909945492566429218
+    second: DeskWood_L003.003|ChairWood_L005|Take 001|BaseLayer
+  - first:
+      74: -2597641144873185125
+    second: DeskWood_L003.003|ChairWood_L006|Take 001|BaseLayer
+  - first:
+      74: 3001459508014527877
+    second: DeskWood_L003.003|ChairWood_L007|Take 001|BaseLayer
+  - first:
+      74: 935543851693675479
+    second: DeskWood_L003.003|ChairWood_L008|Take 001|BaseLayer
+  - first:
+      74: -253681318715576353
+    second: DeskWood_L003.003|ChairWood_L009|Take 001|BaseLayer
+  - first:
+      74: -3670081060930184741
+    second: DeskWood_L003.003|ChairWood_L010|Take 001|BaseLayer
+  - first:
+      74: -8313402325898181904
+    second: DeskWood_L003.003|ChairWood_L011|Take 001|BaseLayer
+  - first:
+      74: -852575030877157517
+    second: DeskWood_L003.003|ChairWood_L012|Take 001|BaseLayer
+  - first:
+      74: -5008096576426668292
+    second: DeskWood_L003.003|ChairWood_L013|Take 001|BaseLayer
+  - first:
+      74: 5503006116323500845
+    second: DeskWood_L003.003|ChairWood_L014|Take 001|BaseLayer
+  - first:
+      74: -6485083909408847458
+    second: DeskWood_L003.003|ChairWood_L015|Take 001|BaseLayer
+  - first:
+      74: -7666881686714867859
+    second: DeskWood_L003.003|ChairWood_L016|Take 001|BaseLayer
+  - first:
+      74: 8637056048365110424
+    second: DeskWood_L003.003|ChairWood_L017|Take 001|BaseLayer
+  - first:
+      74: -6376421502799025800
+    second: DeskWood_L003.003|ChairWood_L018|Take 001|BaseLayer
+  - first:
+      74: 1599788094373241066
+    second: DeskWood_L003.003|ChairWood_L019|Take 001|BaseLayer
+  - first:
+      74: 9073412574389526112
+    second: DeskWood_L003.003|ChairWood_L020|Take 001|BaseLayer
+  - first:
+      74: 8207847734810207961
+    second: DeskWood_L003.003|ChairWood_L021|Take 001|BaseLayer
+  - first:
+      74: -4964432592766615985
+    second: DeskWood_L003.003|ChairWood_L022|Take 001|BaseLayer
+  - first:
+      74: 8219975200916582974
+    second: DeskWood_L003.003|ChairWood_L023|Take 001|BaseLayer
+  - first:
+      74: -8757924386126144023
+    second: DeskWood_L003.003|ChairWood_L024|Take 001|BaseLayer
+  - first:
+      74: 2577255643848348511
+    second: DeskWood_L003.003|ChairWood_L025|Take 001|BaseLayer
+  - first:
+      74: -3543604549593514997
+    second: DeskWood_L003.003|ChairWood_L026|Take 001|BaseLayer
+  - first:
+      74: 1756845565863461717
+    second: DeskWood_L003.003|ChairWood_L027|Take 001|BaseLayer
+  - first:
+      74: -5780302031265310618
+    second: DeskWood_L003.003|ChairWood_L028|Take 001|BaseLayer
+  - first:
+      74: -8356036295167153260
+    second: DeskWood_L003.003|ChairWood_L029|Take 001|BaseLayer
+  - first:
+      74: -6318393222304461112
+    second: DeskWood_L003.003|ChairWood_L030|Take 001|BaseLayer
+  - first:
+      74: 5352564116597436124
+    second: DeskWood_L003.003|ChairWood_L031|Take 001|BaseLayer
+  - first:
+      74: -3841214407312238970
+    second: DeskWood_L003.003|ChairWood_L032|Take 001|BaseLayer
+  - first:
+      74: -6208890721021150729
+    second: DeskWood_L003.003|ChairWood_L033|Take 001|BaseLayer
+  - first:
+      74: 1344578172227026289
+    second: DeskWood_L003.003|ChairWood_L034|Take 001|BaseLayer
+  - first:
+      74: -8505306800457982637
+    second: DeskWood_L003.003|ChairWood_L035|Take 001|BaseLayer
+  - first:
+      74: -7642466704814421320
+    second: DeskWood_L003.003|ChairWood_L|Take 001|BaseLayer
+  - first:
+      74: -6535132376170102874
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.001
+  - first:
+      74: 7533763679376094165
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.002
+  - first:
+      74: -2953299439359537740
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.003
+  - first:
+      74: 1742697889066212817
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.004
+  - first:
+      74: -4395181846861308344
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.005
+  - first:
+      74: -4017329137464131209
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.006
+  - first:
+      74: 1175424718129124456
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.007
+  - first:
+      74: 133168719801597929
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.008
+  - first:
+      74: 7555604325968351454
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.009
+  - first:
+      74: 1102304518169415230
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.010
+  - first:
+      74: 3987809898327162141
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.011
+  - first:
+      74: 8195391168501964616
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.012
+  - first:
+      74: -5157296679656289255
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.013
+  - first:
+      74: 5960570811699053439
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.014
+  - first:
+      74: 1098075092700589400
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.015
+  - first:
+      74: -97647395232355486
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.016
+  - first:
+      74: 1974615767292593033
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.017
+  - first:
+      74: -7987576354245677705
+    second: DeskWood_L003.003|DeskMetal_L003|Take 001|BaseLayer.018
+  - first:
+      74: -8006354250717058374
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.002
+  - first:
+      74: 3850155651543416674
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.003
+  - first:
+      74: 1617877940987841027
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.004
+  - first:
+      74: -681466175995942377
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.005
+  - first:
+      74: 7070903304184715190
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.006
+  - first:
+      74: 2804615096343346503
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.007
+  - first:
+      74: -6492583888350417153
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.008
+  - first:
+      74: 8046747585185629912
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.009
+  - first:
+      74: 7746129581985333086
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.010
+  - first:
+      74: 7722033437091942003
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.011
+  - first:
+      74: 7228378246479675284
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.012
+  - first:
+      74: 1152415342927677309
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.013
+  - first:
+      74: 3130817958153464031
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.014
+  - first:
+      74: 2580446123723358044
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.015
+  - first:
+      74: -7363485668514336400
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.016
+  - first:
+      74: -6440182829441097493
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.017
+  - first:
+      74: 6713035777114003930
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.018
+  - first:
+      74: 106869183975839005
+    second: DeskWood_L003.003|DeskWood_L003|Take 001|BaseLayer.024
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

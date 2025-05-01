@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: e939affd5a1f0534b95350b2e8180878
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -3222493610461512536
+    second: Linus_Cupboard_Mint|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: 3473722999012767104
+    second: Linus_Cupboard_Mint|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: 4620751322096367608
+    second: Linus_Cupboard_Mint|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: -8384729936868888276
+    second: Linus_Cupboard_Mint|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: -6808252403375238505
+    second: Linus_Cupboard_Mint|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: -5582290868629593637
+    second: Linus_Cupboard_Mint|Object267|Take 001|BaseLayer.003
+  - first:
+      74: 4872419358804929980
+    second: Linus_Cupboard_Mint|Object267|Take 001|BaseLayer.008
+  - first:
+      74: 1865870184628660339
+    second: Linus_Cupboard_Mint|Object267|Take 001|BaseLayer.009
+  - first:
+      74: 789197204806887460
+    second: Linus_Cupboard_Mint|Object267|Take 001|BaseLayer.010
+  - first:
+      74: 6893019092474507431
+    second: Linus_Cupboard_Mint001|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: 6659882324239483287
+    second: Linus_Cupboard_Mint001|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: -6446941046794905645
+    second: Linus_Cupboard_Mint001|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: 5783837617358438692
+    second: Linus_Cupboard_Mint001|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: 3840323213435156337
+    second: Linus_Cupboard_Mint001|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: 8579097437891205227
+    second: Linus_Cupboard_Mint001|Object267|Take 001|BaseLayer.003
+  - first:
+      74: -762677438153650128
+    second: Linus_Cupboard_Mint001|Object267|Take 001|BaseLayer.008
+  - first:
+      74: -179788357717898722
+    second: Linus_Cupboard_Mint001|Object267|Take 001|BaseLayer.009
+  - first:
+      74: 4058635908349045760
+    second: Linus_Cupboard_Mint001|Object267|Take 001|BaseLayer.010
+  - first:
+      74: 2813859029534775974
+    second: Linus_Cupboard_Mint002|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: 5563408316809387177
+    second: Linus_Cupboard_Mint002|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: 1289793562809994707
+    second: Linus_Cupboard_Mint002|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: 2336914711965599837
+    second: Linus_Cupboard_Mint002|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: 103552428160088226
+    second: Linus_Cupboard_Mint002|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: 2653615234110917554
+    second: Linus_Cupboard_Mint002|Object267|Take 001|BaseLayer.003
+  - first:
+      74: -3099307627366751065
+    second: Linus_Cupboard_Mint002|Object267|Take 001|BaseLayer.008
+  - first:
+      74: -4483167368276171877
+    second: Linus_Cupboard_Mint002|Object267|Take 001|BaseLayer.009
+  - first:
+      74: 627905250277658758
+    second: Linus_Cupboard_Mint002|Object267|Take 001|BaseLayer.010
+  - first:
+      74: -5574343896384027472
+    second: Linus_Cupboard_Mint003|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: -657864274071893848
+    second: Linus_Cupboard_Mint003|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: -8030327131158503892
+    second: Linus_Cupboard_Mint003|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: -3238676316456267418
+    second: Linus_Cupboard_Mint003|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: -79788003567086218
+    second: Linus_Cupboard_Mint003|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: -935677238036602248
+    second: Linus_Cupboard_Mint003|Object267|Take 001|BaseLayer.003
+  - first:
+      74: 4950885704668604946
+    second: Linus_Cupboard_Mint003|Object267|Take 001|BaseLayer.008
+  - first:
+      74: -5013191336145810802
+    second: Linus_Cupboard_Mint003|Object267|Take 001|BaseLayer.009
+  - first:
+      74: -4874873387865201477
+    second: Linus_Cupboard_Mint003|Object267|Take 001|BaseLayer.010
+  - first:
+      74: 5507596985102688371
+    second: Linus_Cupboard_Mint003.001|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: -9152434844289164344
+    second: Linus_Cupboard_Mint003.001|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: 3915137514259866902
+    second: Linus_Cupboard_Mint003.001|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: -5397715363985238488
+    second: Linus_Cupboard_Mint003.001|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: -9062503605860691126
+    second: Linus_Cupboard_Mint003.001|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: -2518091537403603779
+    second: Linus_Cupboard_Mint003.001|Object267|Take 001|BaseLayer.003
+  - first:
+      74: 8708704711163659951
+    second: Linus_Cupboard_Mint003.001|Object267|Take 001|BaseLayer.008
+  - first:
+      74: -6790660516458428720
+    second: Linus_Cupboard_Mint003.001|Object267|Take 001|BaseLayer.009
+  - first:
+      74: 6561495487572984167
+    second: Linus_Cupboard_Mint003.001|Object267|Take 001|BaseLayer.010
+  - first:
+      74: 8019043589639421835
+    second: Object267.001|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: -2130433315761051310
+    second: Object267.001|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: 775436956388153259
+    second: Object267.001|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: 6233107999311377917
+    second: Object267.001|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: 6991817421515183003
+    second: Object267.001|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: 8070385368964953585
+    second: Object267.001|Object267|Take 001|BaseLayer.003
+  - first:
+      74: -2761176115772570297
+    second: Object267.001|Object267|Take 001|BaseLayer.008
+  - first:
+      74: -1659185485028268338
+    second: Object267.001|Object267|Take 001|BaseLayer.009
+  - first:
+      74: -742825396776458302
+    second: Object267.001|Object267|Take 001|BaseLayer.010
+  - first:
+      74: -11716917219119685
+    second: Object267.002|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: 5054100165070285472
+    second: Object267.002|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: -404823259351038163
+    second: Object267.002|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: 4352729076830839979
+    second: Object267.002|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: 6989968509195080053
+    second: Object267.002|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: 7916831446506091956
+    second: Object267.002|Object267|Take 001|BaseLayer.003
+  - first:
+      74: -1691847240673577518
+    second: Object267.002|Object267|Take 001|BaseLayer.008
+  - first:
+      74: -7763806342622952575
+    second: Object267.002|Object267|Take 001|BaseLayer.009
+  - first:
+      74: 633606698275897455
+    second: Object267.002|Object267|Take 001|BaseLayer.010
+  - first:
+      74: 3415661670121211497
+    second: Object267.003|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: -8709315048436890282
+    second: Object267.003|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: 8037346948483874621
+    second: Object267.003|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: 9158585018932613857
+    second: Object267.003|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: -6696498509846910838
+    second: Object267.003|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: -751251301165099979
+    second: Object267.003|Object267|Take 001|BaseLayer.003
+  - first:
+      74: 626099423310542785
+    second: Object267.003|Object267|Take 001|BaseLayer.008
+  - first:
+      74: 8098418659697089062
+    second: Object267.003|Object267|Take 001|BaseLayer.009
+  - first:
+      74: 3674504731073987585
+    second: Object267.003|Object267|Take 001|BaseLayer.010
+  - first:
+      74: 4361262016058228007
+    second: Object267.004|Linus_Cupboard_Mint001|Take 001|BaseLayer
+  - first:
+      74: 3320580956551920844
+    second: Object267.004|Linus_Cupboard_Mint002|Take 001|BaseLayer
+  - first:
+      74: -8796733128244927127
+    second: Object267.004|Linus_Cupboard_Mint003|Take 001|BaseLayer
+  - first:
+      74: -3521772418208975892
+    second: Object267.004|Linus_Cupboard_Mint003|Take 001|BaseLayer.001
+  - first:
+      74: -8330775453553817060
+    second: Object267.004|Linus_Cupboard_Mint|Take 001|BaseLayer
+  - first:
+      74: 8704123638801763916
+    second: Object267.004|Object267|Take 001|BaseLayer.003
+  - first:
+      74: 1329506524367716587
+    second: Object267.004|Object267|Take 001|BaseLayer.008
+  - first:
+      74: 5586414905614094909
+    second: Object267.004|Object267|Take 001|BaseLayer.009
+  - first:
+      74: 2282618020909627510
+    second: Object267.004|Object267|Take 001|BaseLayer.010
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
